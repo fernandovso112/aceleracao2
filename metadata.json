@@ -1,0 +1,5 @@
+{
+  "name": "NewtonLab: 2nd Law Simulator",
+  "description": "An interactive, high-performance physics simulator for exploring Newton's Second Law (F=ma) with real-time parallax visualization and comparative analysis.",
+  "requestFramePermissions": []
+}
